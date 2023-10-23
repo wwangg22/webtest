@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwilliams_sandbox=self.webpackChunkwilliams_sandbox||[]).push([[237],{237:(l,s,e)=>{e.r(s),e.d(s,{default:()=>o}),console.log("hey");const o=()=>{console.log("mobile")}}}]);
